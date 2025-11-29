@@ -1,0 +1,35 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Barn/House -->
+  <path d="M50 15L20 40V75H80V40L50 15Z" fill="#d97706" stroke="#92400e" stroke-width="2"/>
+  <path d="M50 15L35 27V40H65V27L50 15Z" fill="#b45309"/>
+  
+  <!-- Door -->
+  <rect x="42" y="55" width="16" height="20" rx="2" fill="#78350f"/>
+  
+  <!-- Window -->
+  <rect x="30" y="48" width="10" height="10" rx="1" fill="#fef3c7" stroke="#92400e" stroke-width="1"/>
+  <line x1="35" y1="48" x2="35" y2="58" stroke="#92400e" stroke-width="1"/>
+  <line x1="30" y1="53" x2="40" y2="53" stroke="#92400e" stroke-width="1"/>
+  
+  <rect x="60" y="48" width="10" height="10" rx="1" fill="#fef3c7" stroke="#92400e" stroke-width="1"/>
+  <line x1="65" y1="48" x2="65" y2="58" stroke="#92400e" stroke-width="1"/>
+  <line x1="60" y1="53" x2="70" y2="53" stroke="#92400e" stroke-width="1"/>
+  
+  <!-- Ground/Grass -->
+  <ellipse cx="50" cy="80" rx="35" ry="8" fill="#16a34a" opacity="0.6"/>
+  
+  <!-- Wheat stalks -->
+  <g transform="translate(15, 70)">
+    <line x1="0" y1="10" x2="0" y2="0" stroke="#ca8a04" stroke-width="2"/>
+    <path d="M-2 2 L0 0 L2 2" fill="#eab308"/>
+    <path d="M-2 4 L0 2 L2 4" fill="#eab308"/>
+    <path d="M-2 6 L0 4 L2 6" fill="#eab308"/>
+  </g>
+  
+  <g transform="translate(85, 70)">
+    <line x1="0" y1="10" x2="0" y2="0" stroke="#ca8a04" stroke-width="2"/>
+    <path d="M-2 2 L0 0 L2 2" fill="#eab308"/>
+    <path d="M-2 4 L0 2 L2 4" fill="#eab308"/>
+    <path d="M-2 6 L0 4 L2 6" fill="#eab308"/>
+  </g>
+</svg>
